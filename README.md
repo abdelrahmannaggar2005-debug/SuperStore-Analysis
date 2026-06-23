@@ -256,12 +256,12 @@ If you'd like to discuss Business Intelligence, Power BI, Data Analytics, or pot
 
 ### LinkedIn
 
-[[Your LinkedIn Profile](https://www.linkedin.com/feed/update/urn:li:activity:7475167022482558976/)]
+[[abdelrahman LinkedIn Profile](https://www.linkedin.com/feed/update/urn:li:activity:7475167022482558976/)]
 
 ### Email
 
 abdelrahman.naggar2005@gmail.com
-[Your Email]
+[Email]
 
 ---
 
