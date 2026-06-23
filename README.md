@@ -158,6 +158,8 @@ Features:
 * Regional Performance Tracking
 * Interactive Tree Map
 
+<img width="1459" height="858" alt="image" src="https://github.com/user-attachments/assets/aa686e10-39e4-4807-8424-273d602632f4" />
+
 ---
 
 ### 2️⃣ Product Performance Analysis
@@ -173,7 +175,6 @@ Features:
 * Quantity vs Profit Comparison
 * Interactive Drill-Down Analysis
 
-<img width="1459" height="858" alt="image" src="https://github.com/user-attachments/assets/aa686e10-39e4-4807-8424-273d602632f4" />
 
 ---
 
