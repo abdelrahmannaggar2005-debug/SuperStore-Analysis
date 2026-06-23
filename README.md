@@ -238,25 +238,6 @@ Features:
 * Profitability Analysis
 * Executive Reporting
 
----
-
-## 🖼 Dashboard Preview
-
-*Add screenshots or GIF previews here.*
-
-### Sales Overview Dashboard
-
-![Sales Overview](images/sales-overview.png)
-
-### Product Analysis Dashboard
-
-![Product Analysis](images/product-analysis.png)
-
-### What-If Dashboard
-
-![What-If Analysis](images/whatif-analysis.png)
-
----
 
 ## 📂 Tools & Technologies
 
@@ -275,10 +256,11 @@ If you'd like to discuss Business Intelligence, Power BI, Data Analytics, or pot
 
 ### LinkedIn
 
-[Your LinkedIn Profile]
+[[Your LinkedIn Profile](https://www.linkedin.com/feed/update/urn:li:activity:7475167022482558976/)]
 
 ### Email
 
+abdelrahman.naggar2005@gmail.com
 [Your Email]
 
 ---
